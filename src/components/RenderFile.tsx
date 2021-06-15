@@ -1,4 +1,4 @@
-import { sizeInMb } from "libs/sizeInMB"
+import { sizeInMb } from "libs/sizeInMb"
 import { IFile } from "libs/types"
 import { FunctionComponent } from "react"
 
